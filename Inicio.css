@@ -1,0 +1,189 @@
+body{
+    background-image: url(fotos/5\ centimeters\ per\ second\ _\ anime\ gif.gif);
+    background-repeat: no-repeat; /*não repetir o gif */
+    background-size: cover; /*para o gif cobrir a pagina inteira*/
+        font-family: "Gilda Display", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+        font-weight: 200;
+        font-style: normal; 
+}
+
+h1{
+   color: aliceblue;
+   max-width: 40%;
+   margin: 3%;
+   padding: 18px;
+   background-color: #3b76adb9;
+   border-radius: 10px;/*arredondar a borda*/
+   max-width: auto;
+   font-size: 35px;
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+
+}
+
+.text1{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 22px;
+    margin-left: 57px;
+}
+
+
+
+
+.bcurriculo{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 57px;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+}
+.bcurriculo:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+/*//////////////////////////////*/
+
+.bportfolio24:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.bportfolio24{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.561); /* Adiciona sombra */
+}
+
+/*//////////////////////////////*/
+
+.bportfolio23{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+}
+.bportfolio23:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+/*//////////////////////////////*/
+
+.bgithub{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+}
+.bgithub:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+/*//////////////////////////////*/
+
+.binstagram{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+
+}
+.binstagram:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+/*//////////////////////////////*/
+
+img{
+width: 18%;
+}
+
+.fotnat{
+margin-left: 60px;
+margin-top: 10px;
+}
+
+.fotonat1{
+    margin-left: 100px;
+}
+
+.apresentacion{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 22px;
+    margin-left: 925px;
+    margin-top: -670px;
+    width: 850px;
+}
+
+hr{
+    width: 700px;
+    margin-top: -280px;
+    margin-left: 925px;
+}
+
+
+.entrar{
+    margin-left: 926.8px;
+    margin-top: 290px;
+    width: 800px;
+
+    color: rgb(0, 0, 0);
+    background-color: #d4dbe2b9;
+    font-size: 18px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.entrar:hover{
+    transform: scale(1.01);
+    transition: 0.3s;
+}

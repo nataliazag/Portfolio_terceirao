@@ -1,0 +1,120 @@
+body{
+    background-image: url(fotos/transferir.gif);
+    background-repeat: no-repeat; /*não repetir o gif */
+    background-size: 115%; /*para o gif cobrir a pagina inteira*/
+        font-family: "Gilda Display", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+        font-weight: 200;
+        font-style: normal; 
+}
+
+.materias{
+    color: rgb(0, 0, 0);
+    max-width: 40%;
+    margin: 3%;
+    margin-left: 550px;
+    text-align: center;
+    padding: 15px;
+    background-color: #3f7fd274;
+    border-radius: 10px;/*arredondar a borda*/
+    max-width: auto;
+    font-size: 35px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+}
+
+/*////////////////////////////////*/
+
+.humanas{
+    width: 200px;
+    margin-left: 500px;
+    margin-top: -19px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+
+.tecnico{
+    width: 200px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+.ppe{
+    width: 200px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+    
+}
+
+/*////////////////////////////////////*/
+
+.natureza{
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 60px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+.linguagens{
+    width: 200px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+.matematica{
+    width: 200px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+/*/////////////////////  Legenda da parte de cima  /////////////////*/
+
+.humanass{
+    margin-left: 565px;
+    margin-top: 20px;
+}
+
+.tectec{
+    margin-left: 900px;
+    margin-top: -30px;
+}
+
+.ppee{
+    margin-left: 1250px;
+    margin-top: -30px;
+}
+
+/*///////////////////  Legenda da parte de baixo  ///////////////////*/
+
+.natuu{
+    margin-left: 565px;
+    margin-top: 20px;
+}
+
+.linguapa{
+    margin-left: 900px;
+    margin-top: -30px;
+}
+
+.mata{
+    margin-left: 1230px;
+    margin-top: -30px;
+}
+
+/*////////////////////////////////////*/
+
+.inicio{
+    color: rgb(0, 0, 0);
+    max-width: 80%;
+    margin: 3%;
+    margin-left: 830px;
+    text-align: center;
+    padding: 15px;
+    background-color: #3f7fd274;
+    border-radius: 100px;/*arredondar a borda*/
+    max-width: auto;
+    font-size: 25px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    cursor: pointer;
+    text-decoration: none;
+    
+  
+}
