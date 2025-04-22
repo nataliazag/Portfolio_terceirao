@@ -1,0 +1,75 @@
+body{
+    background-image: url(fotos/_fundomat.png);
+    background-repeat: no-repeat; /*não repetir o gif */
+    background-size: 100%;
+}
+
+.titulo1{
+    color:black;
+    max-width: 40%;
+    margin: 0;
+    margin-left: 550px;
+    text-align: center;
+    padding: 15px;
+    background-color: #ffffffba;
+    border-radius: 35px;/*arredondar a borda*/
+    max-width: auto;
+    font-size: 35px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    margin-top: 30px;
+    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 250;
+}
+
+.subtitulo1{
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 15,5px;
+    text-align: center;
+}
+
+
+.pagmat{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+    max-width: 400px; /*tamanho lateral*/
+    background-color: #3b76adb9;
+    margin-left: 758px;
+    text-align: center;
+    padding: 9px;
+    border-radius: 35px;/*arredondar a borda*/
+    width: 380px;
+    font-size: 25px;
+    margin-top: 30px;
+    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    font-weight: 250;
+    border: none;
+}
+
+.artcer{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.texto1{
+    margin-left: 450px;
+    margin-top: -300px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.robcer{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 230px;
+}
+.texto2{
+    margin-left: 450px;
+    margin-top: -580px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+}

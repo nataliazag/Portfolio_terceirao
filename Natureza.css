@@ -27,6 +27,7 @@ body{
     font-size: 16px;
     margin-top: 15,5px;
     text-align: center;
+
 }
 
 /*//////////////////////////////////////////////////////////////////*/
@@ -56,7 +57,7 @@ body{
     border-radius: 35px;/*arredondar a borda*/
     font-size: 35px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
-    margin-top: 100px;
+    margin-top: 200px;
     font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
     font-size: 25px;
 }
@@ -76,25 +77,28 @@ body{
     font-size: 25px;
 }
 
-/*********************************************************************************************/
+/*************************************************************/
 
-.zoohu{
+.elenat{
     width: 400px;
     margin-left: 20px;
     margin-top: 90px;
 }
 .texto1{
     margin-left: 450px;
-    margin-top: -230px;
+    margin-top: -270px;
     font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
     font-weight: 300;
     font-size: 16px;
 }
 
-.geohu{
+
+
+
+.estnat{
     width: 400px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 .texto2{
     margin-left: 450px;
@@ -104,7 +108,35 @@ body{
     font-size: 16px;
 }
 
-/**************************************************************/
+
+.relnat{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.texto3{
+    margin-left: 450px;
+    margin-top: -410px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+}
+
+
+.quena{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 300px;
+}
+.texto4{
+    margin-left: 450px;
+    margin-top: -230px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+   
+}
+/*//////////////////////////////////////////////////////////////////*/
 
 .pagmat{
     text-decoration: none ;

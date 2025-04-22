@@ -1,0 +1,264 @@
+body{
+    background-image: url(fotos/iniciopg1.png);
+    background-repeat: no-repeat; /*não repetir o gif */
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+.port{
+    font-family: "Cormorant Garamond", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    margin-left: 740px;
+    margin-top: 320px;    
+    max-width: 700px;
+    padding: 0%;
+    display: flex;
+    margin-bottom: -15px; /* Sobreposição para aproximar */
+}
+.nome{
+    font-family: "Allison", cursive;  /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    margin-left: 740px;
+    padding: 0%;
+    max-width: 700px; 
+    margin-top: 1px;
+    display: flex;
+}
+
+/****************************************************/
+
+.binicio {
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 12px 50px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638);
+    text-decoration: none;
+    
+    /* Ajuste para posicionamento mais próximo e responsivo */
+    display: inline-block;
+    margin-top: -900px; /* Reduzido para aproximação */
+    margin-left: 850px;
+}
+.binicio:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+/**************************************/
+
+.divp2{
+    margin-top: 400px;
+}
+
+.apresentacao{
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-style: normal;
+    font-size: 29px;
+    margin-top: 100px;
+    width: 900px;
+    margin-left: 90px;
+    font-size: 20px;
+    display: flex;
+}
+
+.fotonath{
+    height: 400px;
+    width: 500px;
+    margin-left: 1200px;
+    margin-top: -415px;
+    display: flex;
+}
+
+
+.info{
+    color: rgb(255, 255, 255);
+    max-width: 40%;
+    margin: 0;
+    margin-left: 550px;
+    text-align: center;
+    padding: 15px;
+    background-color: #3f7fd2b5;
+    border-radius: 35px;/*arredondar a borda*/
+    max-width: auto;
+    font-size: 35px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    margin-top: 300px;
+    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+}
+
+/********************************************/
+
+.materias{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    max-width: 60%;
+    margin-left: 360px;
+    text-align: center;
+    padding: 15px;
+    background-color: #3f7fd2b5;
+    border-radius: 35px;/*arredondar a borda*/
+    font-size: 35px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    margin-top: 200px;
+    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+}
+
+.intro{
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-style: normal;
+    font-size: 29px;
+    width: 1100px; /*qunato menor o numero, mais compacto fica o texto*/
+    margin-left: 390px;
+    font-size: 20px;
+    display: flex;
+    text-align: justify;
+    margin-top: 30px;
+}
+
+
+
+/********************************************************************/
+
+
+
+.bcurriculo{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 55px;
+    margin-left: 500px;
+    font-size: 22px;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 29px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+}
+.bcurriculo:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+/*//////////////////////////////*/
+
+.bportfolio24:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.bportfolio24{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 29px;
+        border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.561); /* Adiciona sombra */
+}
+
+/*//////////////////////////////*/
+
+.bportfolio23{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 29px;
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+}
+.bportfolio23:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+/*//////////////////////////////*/
+
+.bgithub{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 29px;
+       border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+}
+.bgithub:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+/*//////////////////////////////*/
+
+.binstagram{
+    color: rgb(255, 255, 255);
+    background-color: #3b76adb9;
+    margin-top: 17px;
+    margin-left: 20px;
+    font-size: 22px;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 29px;    
+    border: 0;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.638); /* Adiciona sombra */
+    text-decoration: none;
+
+}
+.binstagram:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.materiaslink{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+    max-width: 30%; /*tamanho lateral*/
+    margin-left: 649px;
+    text-align: center;
+    padding: 10px;
+    background-color: #3f7fd2b5;
+    border-radius: 35px;/*arredondar a borda*/
+    font-size: 35px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    margin-top: 100px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    cursor: pointer;
+    margin-bottom: 200px;
+}
+
+.materiaslink a{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+}

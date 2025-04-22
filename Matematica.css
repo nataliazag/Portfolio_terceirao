@@ -29,6 +29,25 @@ body{
     text-align: center;
 }
 
+
+.pagmat{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+    max-width: 400px; /*tamanho lateral*/
+    background-color: #3b76adb9;
+    margin-left: 758px;
+    text-align: center;
+    padding: 9px;
+    border-radius: 35px;/*arredondar a borda*/
+    width: 380px;
+    font-size: 25px;
+    margin-top: 30px;
+    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    font-weight: 250;
+    border: none;
+}
+
 /*//////////////////////////////////////////////////////////////////*/
 
 .pritri{
@@ -76,9 +95,9 @@ body{
     font-size: 25px;
 }
 
-/*********************************************************************************************/
+/**************************************************/
 
-.zoohu{
+.filmat{
     width: 400px;
     margin-left: 20px;
     margin-top: 90px;
@@ -91,10 +110,10 @@ body{
     font-size: 16px;
 }
 
-.geohu{
+.jogmat{
     width: 400px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 .texto2{
     margin-left: 450px;
@@ -102,24 +121,4 @@ body{
     font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
     font-weight: 300;
     font-size: 16px;
-}
-
-/**************************************************************/
-
-.pagmat{
-    text-decoration: none ;
-    color: rgb(255, 255, 255);
-    max-width: 400px; /*tamanho lateral*/
-    background-color: #3b76adb9;
-    margin-left: 758px;
-    text-align: center;
-    padding: 9px;
-    border-radius: 35px;/*arredondar a borda*/
-    width: 380px;
-    font-size: 25px;
-    margin-top: 30px;
-    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
-    font-weight: 250;
-    border: none;
 }

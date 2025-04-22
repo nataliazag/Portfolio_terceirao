@@ -1,0 +1,116 @@
+body{
+    background-image: url(fotos/Cabeçalho\ \(4\).png);
+    background-repeat: no-repeat; /*não repetir o gif */
+    background-size: 115%; /*para o gif cobrir a pagina inteira*/
+        font-family: "Gilda Display", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+        font-weight: 200;
+        font-style: normal; 
+}
+
+/*////////////////////////////////*/
+
+.humanas{
+    width: 230px;
+    margin-left: 460px;
+    margin-top: 85px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+
+.tecnico{
+    width: 230px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+.ppe{
+    width: 230px;
+    margin-left: 125px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+    
+}
+
+/*////////////////////////////////////*/
+
+.natureza{
+    width: 230px;
+    margin-left: 460px;
+    margin-top: 40px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+
+.linguagens{
+    width: 230px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+.matematica{
+    width: 230px;
+    margin-left: 130px;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.518);
+}
+
+/*/////////////////////  Legenda da parte de cima  /////////////////*/
+
+.humanass{
+    margin-left: 530px;
+    margin-top: 20px;
+    font-size: 21px;
+
+}
+
+.tectec{
+    margin-left: 905px;
+    margin-top: -47px;
+    font-size: 21px;
+}
+
+.ppee{
+    margin-left: 1220px;
+    margin-top: -47px;
+    font-size: 21px;
+}
+
+/*///////////////////  Legenda da parte de baixo  ///////////////////*/
+
+.natuu{
+    margin-left: 534px;
+    margin-top: 30px;
+    font-size: 21px;
+    
+}
+
+.linguapa{
+    margin-left: 886px;
+    margin-top: -48px;
+    font-size: 21px;
+}
+
+.mata{
+    margin-left: 1254px;
+    margin-top: -50px;
+    font-size: 21px;
+}
+
+/*////////////////////////////////////*/
+
+.inicio {
+    color: rgb(0, 0, 0);
+    margin: 1%;
+    margin-left: 700px;
+    text-align: center;
+    padding: 15px 40px; /* Ajusta largura interna */
+    background-color: #7BABD5;
+    border-radius: 50px; /* Mantém o arredondamento */
+    font-size: 25px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308);
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block; /* Garante comportamento de botão */
+    width: 400px; /* Define uma largura maior */
+    margin-top: 36px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+}

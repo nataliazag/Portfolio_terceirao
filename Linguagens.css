@@ -29,6 +29,24 @@ body{
     text-align: center;
 }
 
+.pagmat{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+    max-width: 400px; /*tamanho lateral*/
+    background-color: #3b76adb9;
+    margin-left: 758px;
+    text-align: center;
+    padding: 9px;
+    border-radius: 35px;/*arredondar a borda*/
+    width: 380px;
+    font-size: 25px;
+    margin-top: 30px;
+    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
+    font-weight: 250;
+    border: none;
+}
+
 /*//////////////////////////////////////////////////////////////////*/
 
 .pritri{
@@ -46,6 +64,7 @@ body{
     font-size: 25px;
 }
 
+
 .segtri{
     color: rgb(255, 255, 255);
     width: 600px;
@@ -56,7 +75,7 @@ body{
     border-radius: 35px;/*arredondar a borda*/
     font-size: 35px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
-    margin-top: 100px;
+    margin-top: 200px;
     font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
     font-size: 25px;
 }
@@ -76,12 +95,13 @@ body{
     font-size: 25px;
 }
 
-/*********************************************************************************************/
 
-.zoohu{
+/******************************************************/
+
+.bili{
     width: 400px;
     margin-left: 20px;
-    margin-top: 90px;
+    margin-top: 20px;
 }
 .texto1{
     margin-left: 450px;
@@ -91,35 +111,70 @@ body{
     font-size: 16px;
 }
 
-.geohu{
+
+.inflin{
     width: 400px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 120px;
 }
 .texto2{
     margin-left: 450px;
-    margin-top: -230px;
+    margin-top: -180px;
     font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
     font-weight: 300;
     font-size: 16px;
 }
 
-/**************************************************************/
 
-.pagmat{
-    text-decoration: none ;
-    color: rgb(255, 255, 255);
-    max-width: 400px; /*tamanho lateral*/
-    background-color: #3b76adb9;
-    margin-left: 758px;
-    text-align: center;
-    padding: 9px;
-    border-radius: 35px;/*arredondar a borda*/
-    width: 380px;
-    font-size: 25px;
-    margin-top: 30px;
-    font-family: "Cormorant Garamond", serif; /* muda a fonte ( estou usando uma fonte externa ) */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.308); /* Adiciona sombra */
-    font-weight: 250;
-    border: none;
+.painau{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.texto3{
+    margin-left: 450px;
+    margin-top: -190px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.redlin{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 70px;    
+}
+.texto4{
+    margin-left: 450px;
+    margin-top: -410px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+}
+
+
+.padlinn{
+    width: 390px;
+    margin-left: 20px;
+    margin-top: 250px;   
+}
+.texto5{
+    margin-left: 450px;
+    margin-top: -680px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.revlin{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 570px;    
+}
+.texto7{
+    margin-left: 450px;
+    margin-top: -180px;
+    font-family: "Poppins", sans-serif; /* muda a fonte ( estou usando uma fonte externa ) */
+    font-weight: 300;
+    font-size: 16px;
 }
